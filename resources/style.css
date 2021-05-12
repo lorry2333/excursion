@@ -1,0 +1,52 @@
+*{
+  background-color: black;
+}
+
+h1.title{
+  color: white;
+  font-size: 50px;
+  font-family: Verdana;
+  text-align: center;
+  font-weight: normal;
+}
+
+p.download{
+  color: Aquamarine;
+  font-size: 16px;
+  text-align: center;
+  font-family: Verdana;
+}
+
+video {
+  display: block;
+  margin: auto;
+}
+
+h1.secondtitle{
+  color: white;
+  font-size: 42px;
+  font-family: Verdana;
+  text-align: center;
+  font-weight: 300;
+}
+
+p.intro{
+  color: Gray;
+  font-size: 21px;
+  font-family: Verdana;
+  text-align: center;
+}
+
+img{
+  display: block;
+  margin: 32px auto;
+}
+
+p.footer{
+  font-family: Verdana;
+  text-align: right;
+  font-size: 21px;
+  color: Gray;
+  margin: 48px 24px 12px;
+
+}
